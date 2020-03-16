@@ -1,5 +1,6 @@
 # Aplikacja_Internetowa_16.03.2020
 @ehoze
+18:40 - Dodane reCaptcha
 @Eryk Kucharski
 
 main.png - jest to główny sql z nauczycielem i większością tabel
